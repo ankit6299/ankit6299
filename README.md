@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ankit6299/ankit6299/blob/main/assets/graph_visuals.gif" alt="Graph Visuals" />
+  <img src="https://github.com/ankit6299/ankit6299/blob/main/assets/graph_visuals.gif" alt="Graph Visuals" width="400" />
 </p>
 
 ---
